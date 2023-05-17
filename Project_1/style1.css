@@ -1,0 +1,20 @@
+body {
+background-color: #bdbebd;
+}
+
+h1{
+    font-size:48px;
+    color: black;
+    margin: 40px;
+  }
+
+div {
+background-color:#34495E ;
+margin: 40px;
+padding:21px;
+border-radius: 20px;
+}
+ 
+p{
+ color: white;   
+}
